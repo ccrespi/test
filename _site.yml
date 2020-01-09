@@ -1,0 +1,9 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "ichps demo website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Project"
+      href: report.html
